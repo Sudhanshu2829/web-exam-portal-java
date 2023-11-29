@@ -1,2 +1,5 @@
-# web exam portal
+# WEB EXAM PORTAL <br>
+**Tech Stack :** Angular, Spring Boot, Hibernate and MySQL <br>
+**Role:** Full Stack (Solo Project) <br>
+The Exam Portal is a dynamic web application developed using Spring Boot, Hibernate, Angular, and MySQL, designed to streamline the process of online examinations. The platform offers essential functionalities such as user registration, quiz management (including the addition and deletion of quizzes), and the seamless conduct of quizzes. With a secure user authentication system, administrators can create quizzes with diverse question sets, and participants can engage in exams with features like timers and result breakdowns. The Angular-based front-end ensures an intuitive and responsive user interface, while the combination of MySQL and Hibernate facilitates efficient database management. The application prioritizes security, scalability, and performance, providing a comprehensive solution for online assessments with real-time analytics and user-friendly navigation.
  
